@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Haupseite.html",
+    "currentPage": "Hobby.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -164,7 +164,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/r6s-screenshot-33-225836-600x337.jpg",
+              "src": "@PROJECT_PATH@/assets/images/samsung-galaxy-note-8-hd-image-1-600x337.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -206,9 +206,9 @@
           "title2": "Filme",
           "subtitle2": "",
           "caption2": "Ich liebe die Werke von Christopher Nolan wie z.B. Inception, Interstellar oder Dunkirk.",
-          "title3": "Playstation",
+          "title3": "Technik",
           "subtitle3": "",
-          "caption3": "Ich spiele nur FPS spiele wie Rainbow Six Siege",
+          "caption3": "Ich&nbsp;interessiere mich sehr für Technik und Elektronik vorallem im Smartphone bereich.",
           "title4": "Musik",
           "subtitle4": "",
           "caption4": "Meine lieblings Genre: Klassik, Hip Hop, Jazz und House",
